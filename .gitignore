@@ -27,6 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/day01/HelloWorld.java
-/src/day01/
-/.idea/
+
