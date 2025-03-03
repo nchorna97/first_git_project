@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="689489d3-d568-442f-8c17-21b6c982e01a" name="Changes" comment="HelloCydeo Class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/HelloCydeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/HelloCydeo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741035200906</updated>
-      <workItem from="1741035202447" duration="3498000" />
+      <workItem from="1741035202447" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="HelloWorld Class">
       <option name="closed" value="true" />
@@ -100,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741036561587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HelloCydeo Class">
+      <option name="closed" value="true" />
+      <created>1741038801195</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741038801196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
