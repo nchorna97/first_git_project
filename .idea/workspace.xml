@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="689489d3-d568-442f-8c17-21b6c982e01a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_git_project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/HelloCydeo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/HelloWorld.java" beforeDir="false" />
+    <list default="true" id="689489d3-d568-442f-8c17-21b6c982e01a" name="Changes" comment="HelloCydeo Class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nchorna97"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nchorna97/first_git_project",
+    "accountId": "5859eea1-6f29-467d-bf7c-88c3f9bfb282"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -68,11 +74,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741035200906</updated>
-      <workItem from="1741035202447" duration="1000000" />
+      <workItem from="1741035202447" duration="3498000" />
     </task>
+    <task id="LOCAL-00001" summary="HelloWorld Class">
+      <option name="closed" value="true" />
+      <created>1741036370451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741036370451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HelloWorld Class">
+      <option name="closed" value="true" />
+      <created>1741036390812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741036390812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HelloCydeo Class">
+      <option name="closed" value="true" />
+      <created>1741036561587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741036561587</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HelloWorld Class" />
+    <MESSAGE value="HelloCydeo Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloCydeo Class" />
   </component>
 </project>
